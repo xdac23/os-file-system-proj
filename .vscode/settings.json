@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "profs.h": "c",
+        "cstdio": "c"
+    }
+}
